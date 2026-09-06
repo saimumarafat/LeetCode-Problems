@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/saimumarafat/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saimumarafat/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/saimumarafat/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+| [0115-distinct-subsequences](https://github.com/saimumarafat/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/saimumarafat/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saimumarafat/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/saimumarafat/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
+| [0115-distinct-subsequences](https://github.com/saimumarafat/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 ## Manacher
 |  |
 | ------- |
