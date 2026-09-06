@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/saimumarafat/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/saimumarafat/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/saimumarafat/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+| [0169-majority-element](https://github.com/saimumarafat/LeetCode-Problems/tree/master/0169-majority-element) |
 | [3731-find-missing-elements](https://github.com/saimumarafat/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/saimumarafat/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/saimumarafat/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saimumarafat/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/saimumarafat/LeetCode-Problems/tree/master/0169-majority-element) |
 | [3731-find-missing-elements](https://github.com/saimumarafat/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saimumarafat/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/saimumarafat/LeetCode-Problems/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saimumarafat/LeetCode-Problems/tree/master/0169-majority-element) |
 | [3731-find-missing-elements](https://github.com/saimumarafat/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
@@ -112,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/saimumarafat/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saimumarafat/LeetCode-Problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saimumarafat/LeetCode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
